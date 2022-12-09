@@ -1,0 +1,20 @@
+[
+    {"id":1, "marca": "BMW", "modelo": "X7", "precio": 170000, "stock": 7, "imagen": "bmw-x7.jpg"},
+    {"id":2, "marca": "BMW", "modelo": "SERIE 5", "precio": 100000, "stock": 7, "imagen": "bmw-serie5.jpg"},
+    {"id":3, "marca": "BMW", "modelo": "SERIE 3", "precio": 80000, "stock": 8, "imagen": "bmw-serie3.jpg"},
+    {"id":4, "marca": "AUDI", "modelo": "RS7", "precio": 240000, "stock": 7, "imagen": "audi-rs7.jpg"},
+    {"id":5, "marca": "AUDI", "modelo": "Q5", "precio": 90000, "stock": 9, "imagen": "audi-q5.jpg"},
+    {"id":6, "marca": "AUDI", "modelo": "Q7", "precio": 120000, "stock": 9, "imagen": "audi-q7.jpg"},
+    {"id":7, "marca": "MERCEDES BENZ", "modelo": "CLASE C", "precio": 90000, "stock": 4, "imagen": "mercedes-claseC.jpg"},
+    {"id":8, "marca": "MERCEDES BENZ", "modelo": "CLASE G", "precio": 190000, "stock": 6, "imagen": "mercedes-claseG.jpg"},
+    {"id":9, "marca": "MERCEDES BENZ", "modelo": "GLS MAYBACH", "precio": 310000, "stock": 3, "imagen": "mercedes-maybach.jpg"},
+    {"id":10, "marca": "LEXUS", "modelo": "LX", "precio": 320000, "stock": 4, "imagen": "lexus-lx.jpg"},
+    {"id":11, "marca": "LEXUS", "modelo": "NX", "precio": 205000, "stock": 9, "imagen": "lexus-nx.jpg"},
+    {"id":12, "marca": "LEXUS", "modelo": "LS", "precio": 390000, "stock": 2, "imagen": "lexus-ls.jpg"},
+    {"id":13, "marca": "FERRARI", "modelo": "ROMA", "precio": 500000, "stock": 2, "imagen": "ferrari-roma.jpg"},
+    {"id":14, "marca": "BENTLEY", "modelo": "BENTAYGA", "precio": 650000, "stock": 4, "imagen": "bentley-bentayga.jpg"},
+    {"id":15, "marca": "ROLLS ROYCE", "modelo": "PHANTOM", "precio": 950000, "stock": 6, "imagen": "rollsroyce-phantom.jpg"},
+    {"id":16, "marca": "MCLAREN", "modelo": "GT", "precio": 795000, "stock": 6, "imagen": "mclaren-gt.jpg"},
+    {"id":17, "marca": "FERRARI", "modelo": "F8 TRIBUTO", "precio": 540000, "stock": 2, "imagen": "ferrari-f8.jpg"},
+    {"id":18, "marca": "ROLLS ROYCE", "modelo": "CULLINAN", "precio": 700000, "stock": 2, "imagen": "rollsroyce-cullinan.jpg"}
+]

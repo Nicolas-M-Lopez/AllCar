@@ -1,3 +1,7 @@
 .titulo{
   background-color: aqua;
 }
+
+a{
+  all:unset;
+}
